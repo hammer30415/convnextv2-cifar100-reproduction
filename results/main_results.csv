@@ -1,0 +1,3 @@
+﻿model,best_epoch,val_accuracy,test_accuracy,test_loss,test_samples
+ConvNeXt V1-Atto,5,0.802,0.7947,0.7191839226722717,10000
+ConvNeXt V2-Atto,9,0.8012,0.7981,0.8281303858995438,10000
