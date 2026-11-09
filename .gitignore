@@ -1,0 +1,12 @@
+.venv/
+data/
+runs/
+checkpoints/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pth
+*.pt
+*.bak
+sample.jpg
+ConvNeXt-V2-git-metadata-backup/
